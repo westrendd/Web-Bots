@@ -14,3 +14,7 @@ Bu repoda web üzerinden yönetilebilen Discord botlarımı paylaşacam
 ## Destek
 
 Kurulum konusunda sorun yaşarsanız, [Positron Discord sunucusuna](https://discord.gg/positron) katılabilir ve destek alabilirsiniz.
+
+## Bilgi
+
+* Bu Projede Yanımda Olup Beni Destekleyen [Acerhizim](https://github.com/acerhizmq) ^^
