@@ -17,4 +17,4 @@ Kurulum konusunda sorun yaşarsanız, [Positron Discord sunucusuna](https://disc
 
 ## Yanımda Olanlar
 
- Bu Projede Yanımda Olup Beni Destekleyen [Acerhizim](https://github.com/acerhizmq) ^^
+ Bu Projede Yanımda Olup Beni Destekleyen [Acerhizim](https://github.com/acerhizmq)'e Teşekkürler ^^
